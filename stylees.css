@@ -65,17 +65,17 @@ a:hover {
     margin: 10px;
     border-radius: 8px;
 }
-#about {
+#biography {
     padding: 50px 20px;
     max-width: 900px;
     margin: auto;
     text-align: center;
 }
-#about h2 {
+#biography h2 {
     font-size: 32px;
     margin-bottom: 20px;
 }
-#about p {
+#biography p {
     font-size: 18px;
     color:silver
 }
