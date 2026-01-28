@@ -1,3 +1,8 @@
+## Project Description
+
+Grotesque Photography is a responsive photography portfolio website designed to showcase
+high-quality visual storytelling across various aspects of life.
+
 # Grotesque Photography
 
 Grotesque Photography is a modern photography portfolio website designed to showcase powerful visual storytelling across different aspects of life — love, family, nature, and work.
