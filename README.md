@@ -27,10 +27,11 @@ The website focuses on clean design, immersive visuals, and simplicity, allowing
 * **Nature** – Landscapes and natural serenity  
 * **Work** – Professional life and productivity
 
-## Technologies Used -
-**HTML5** – Website structure
-
-**CSS3** – Styling and layout -
+## Technologies Used 
+* **HTML5** – Website structure
+* **CSS** – Styling and layout 
+* **Git** – Version control  
+* **GitHub** – Code hosting and collaboration
 
 ##  Project Structure
 
@@ -43,7 +44,11 @@ grotesque-photography/
     * love.jpg
     * family.jpg
     * nature.jpg
-    * work.jpg       
+    * work.jpg
+##  Contributors
+
+ **Calvin** – Designer, Photographer, and Developer
+
 
 [Click here](https://github.com/ckihobe-creator/bob) to view my repository
    
